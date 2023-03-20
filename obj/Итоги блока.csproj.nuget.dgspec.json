@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Владислав\\Desktop\\Учеба\\Курс C#\\Итоги блока\\Итоги блока.csproj": {}
+    "C:\\Users\\Владислав\\Desktop\\Итоги блока\\Итоги блока.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Владислав\\Desktop\\Учеба\\Курс C#\\Итоги блока\\Итоги блока.csproj": {
+    "C:\\Users\\Владислав\\Desktop\\Итоги блока\\Итоги блока.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Владислав\\Desktop\\Учеба\\Курс C#\\Итоги блока\\Итоги блока.csproj",
+        "projectUniqueName": "C:\\Users\\Владислав\\Desktop\\Итоги блока\\Итоги блока.csproj",
         "projectName": "Итоги блока",
-        "projectPath": "C:\\Users\\Владислав\\Desktop\\Учеба\\Курс C#\\Итоги блока\\Итоги блока.csproj",
+        "projectPath": "C:\\Users\\Владислав\\Desktop\\Итоги блока\\Итоги блока.csproj",
         "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Владислав\\Desktop\\Учеба\\Курс C#\\Итоги блока\\obj\\",
+        "outputPath": "C:\\Users\\Владислав\\Desktop\\Итоги блока\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config"

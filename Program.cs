@@ -29,3 +29,5 @@ if(arr1 <= 3) Console.Write($" [{string.Join("; ", array1)}]");
 if(arr2 <= 3) Console.Write($" [{string.Join("; ", array2)}]");
 if(arr3 <= 3) Console.Write($" [{string.Join("; ", array3)}]");
 else Console.Write($"[]");
+
+Console.ReadLine();

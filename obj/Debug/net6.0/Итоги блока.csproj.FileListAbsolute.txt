@@ -13,3 +13,18 @@ C:\Users\Владислав\Desktop\Учеба\Курс C#\Итоги блока
 C:\Users\Владислав\Desktop\Учеба\Курс C#\Итоги блока\obj\Debug\net6.0\Итоги блока.pdb
 C:\Users\Владислав\Desktop\Учеба\Курс C#\Итоги блока\obj\Debug\net6.0\Итоги блока.genruntimeconfig.cache
 C:\Users\Владислав\Desktop\Учеба\Курс C#\Итоги блока\obj\Debug\net6.0\ref\Итоги блока.dll
+C:\Users\Владислав\Desktop\Итоги блока\bin\Debug\net6.0\Итоги блока.exe
+C:\Users\Владислав\Desktop\Итоги блока\bin\Debug\net6.0\Итоги блока.deps.json
+C:\Users\Владислав\Desktop\Итоги блока\bin\Debug\net6.0\Итоги блока.runtimeconfig.json
+C:\Users\Владислав\Desktop\Итоги блока\bin\Debug\net6.0\Итоги блока.dll
+C:\Users\Владислав\Desktop\Итоги блока\bin\Debug\net6.0\Итоги блока.pdb
+C:\Users\Владислав\Desktop\Итоги блока\obj\Debug\net6.0\Итоги блока.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Итоги блока\obj\Debug\net6.0\Итоги блока.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\Итоги блока\obj\Debug\net6.0\Итоги блока.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\Итоги блока\obj\Debug\net6.0\Итоги блока.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\Итоги блока\obj\Debug\net6.0\Итоги блока.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Итоги блока\obj\Debug\net6.0\Итоги блока.dll
+C:\Users\Владислав\Desktop\Итоги блока\obj\Debug\net6.0\refint\Итоги блока.dll
+C:\Users\Владислав\Desktop\Итоги блока\obj\Debug\net6.0\Итоги блока.pdb
+C:\Users\Владислав\Desktop\Итоги блока\obj\Debug\net6.0\Итоги блока.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\Итоги блока\obj\Debug\net6.0\ref\Итоги блока.dll
