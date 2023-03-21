@@ -1,33 +1,31 @@
-﻿string IsMessageToUser(string messageToUser){
+﻿Console.WriteLine("Введите количество элементов массива");
+string value = Console.ReadLine();
+int size = Convert.ToInt32(value);
+
+int count = 0;
+string [] array = new string [size];
+
+string AddMessageToUser(string messageToUser){
     Console.WriteLine(messageToUser);
     string answer = Console.ReadLine();
+    if(answer.Length <= 3) count ++;
     return answer;
 }
 
- int  IsCharacters(string arr){
-    int  array = arr.Length;
-    int charact = 0;
-    for (int i = 0; i < array; i++){
-                if ((arr[i] != ' ') && (arr[i] != '.') && (arr[i] != ',')){
-                    charact++;
-                }
-            }
-    return array;
+for(int i = 0; i < size; i++){
+    string message = AddMessageToUser("Введите " + (i + 1) + " элемент массива");
+    array [i] = message;
 }
 
+string [] result = new string [count];
+Console.Write($"Ваш массив строк [{string.Join("; ", array)}]->");
 
-string array1 = IsMessageToUser("Введите первую часть массива");
-string array2 = IsMessageToUser("Введите вторую часть массива");
-string array3 = IsMessageToUser("Введите третью часть массива");
+count = 0;
 
-Console.Write($"Ваш массив строк [{string.Join("; ", array1, array2, array3)}]->");
+for(int i = 0; i < size; i++){
+    if(array[i].Length <= 3){
+        result[count++] = array[i];
+    }
+}
 
-int arr1 = IsCharacters(array1);
-int arr2 = IsCharacters(array2);
-int arr3 = IsCharacters(array3);
-if(arr1 <= 3) Console.Write($" [{string.Join("; ", array1)}]");
-if(arr2 <= 3) Console.Write($" [{string.Join("; ", array2)}]");
-if(arr3 <= 3) Console.Write($" [{string.Join("; ", array3)}]");
-else Console.Write($"[]");
-
-Console.ReadLine();
+Console.Write($" Ваш массив строк [{string.Join(", ", result)}]");
